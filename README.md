@@ -9,4 +9,6 @@
     <img height="20" src="https://img.shields.io/github/followers/aomona?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aomona)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</p>

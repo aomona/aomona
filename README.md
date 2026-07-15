@@ -26,7 +26,7 @@ I build experimental products where **AI meets real-world workflows**—from ada
 | :-- | :-- | :-- |
 | [**PEAR Agent**](https://github.com/aomona/pear-agent) | An execution-support agent that keeps adapting until real-world work is done. | TypeScript · React · Cloudflare · Gemini Live |
 | [**cook-agent**](https://github.com/aomona/cook-agent) | AI-assisted cooking plans with realtime guidance, timers, and replanning. | Next.js · AI SDK · PostgreSQL |
-| [**nix-configs**](https://github.com/aomona/nix-configs) | Reproducible configurations for NixOS, macOS, servers, and infrastructure. | Nix · Home Manager · OpenTofu |
+| [**aomona.me**](https://aomona.me) | My personal website and interactive portfolio. | Next.js · React · GSAP · WebGL |
 | [**grain-gradient**](https://github.com/aomona/grain-gradient) | Lightweight WebGL utilities for mesh and grain gradients. | TypeScript · WebGL · React |
 
 ## Toolbox

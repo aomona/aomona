@@ -26,20 +26,13 @@ I build experimental products where **AI meets real-world workflows**—from ada
 | :-- | :-- | :-- |
 | [**PEAR Agent**](https://github.com/aomona/pear-agent) | An execution-support agent that keeps adapting until real-world work is done. | TypeScript · React · Cloudflare · Gemini Live |
 | [**cook-agent**](https://github.com/aomona/cook-agent) | AI-assisted cooking plans with realtime guidance, timers, and replanning. | Next.js · AI SDK · PostgreSQL |
-| [**redstone-llm**](https://github.com/aomona/redstone-llm) | Generates Minecraft redstone circuits from an LLM-authored DSL. | Rust · DSL · Simulation |
+| [**nix-configs**](https://github.com/aomona/nix-configs) | Reproducible configurations for NixOS, macOS, servers, and infrastructure. | Nix · Home Manager · OpenTofu |
 | [**grain-gradient**](https://github.com/aomona/grain-gradient) | Lightweight WebGL utilities for mesh and grain gradients. | TypeScript · WebGL · React |
 
 ## Toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,rust,react,nextjs,cloudflare,bun,nodejs,postgres,nix,git&perline=10" alt="TypeScript, Rust, React, Next.js, Cloudflare, Bun, Node.js, PostgreSQL, Nix and Git" />
-</div>
-
-## GitHub activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aomona&show_icons=true&hide_border=true&bg_color=00000000&title_color=70A5FD&text_color=9CA3AF&icon_color=BF91F3&rank_icon=github" alt="aomona's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomona&layout=compact&hide_border=true&bg_color=00000000&title_color=70A5FD&text_color=9CA3AF&langs_count=8" alt="Most used languages" />
 </div>
 
 <details>
